@@ -8,3 +8,4 @@ I am learning GitHub collaboration for my workplace.
 - Learning Git
 - Learning GitHub
 
+This line will still cause conflict
